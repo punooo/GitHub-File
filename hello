@@ -1,6 +1,9 @@
 #include <stdio.h>
  
- int main() {
-     printf("hello World!");
+ int main(void) 
+{
+     int x;
+     x = 5;
+     printf("변수 x의 메모리 크기는 %입니다.", sizeof(x));
      return 0;
 }
