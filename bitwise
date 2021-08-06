@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main(void)
+{
+	int num01 = 15;
+	int num02 = 8;
+	
+	printf(" ~연산자에 의한 결괏값은 %d입니다.\n", ~num01);				//1의 보수
+	printf(" <<연산자에 의한 결괏값은 %d입니다.\n", num02 << 1); //곱하기 2
+	printf(" >>연산자에 의한 결괏값은 %d입니다.\n", num02 >> 1); //나누기 2
+	 return 0;	
+}
