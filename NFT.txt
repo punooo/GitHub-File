@@ -1,0 +1,7 @@
+1. Immutability & Scarcity: Through smart contracts, scarcity can be emphasized by limiting the total issuance of NFTs, and immutability can be applied so that modifications cannot be made after issuance.
+
+2. Transparency: All on-chain NFTs can track the flow of NFTs through Explorer.
+
+3. Tradeability: All NFTs can be freely exchanged between different wallets. The biggest advantage of NFTs is the tradability of assets, which can be compared to the transition from a closed economy to a free market economy.
+
+4. Ownership Guaranteed: Ownership and management rights are granted as soon as the NFT is recorded on-chain. As a result, the owner and developer of the asset are at a disadvantage, and it is impossible to move the asset by a third party.
